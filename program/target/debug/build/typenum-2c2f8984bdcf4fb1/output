@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\arnab\OneDrive\Desktop\Blockchain\crowd-funding\program\target\debug\build\typenum-2c2f8984bdcf4fb1\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\arnab\OneDrive\Desktop\Blockchain\crowd-funding\program\target\debug\build\typenum-2c2f8984bdcf4fb1\out\op.rs
