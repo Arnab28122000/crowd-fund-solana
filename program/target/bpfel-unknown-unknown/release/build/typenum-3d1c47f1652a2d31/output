@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\arnab\OneDrive\Desktop\Blockchain\crowd-funding\program\target\bpfel-unknown-unknown\release\build\typenum-3d1c47f1652a2d31\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\arnab\OneDrive\Desktop\Blockchain\crowd-funding\program\target\bpfel-unknown-unknown\release\build\typenum-3d1c47f1652a2d31\out\op.rs

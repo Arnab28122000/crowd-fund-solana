@@ -1,0 +1,1 @@
+{"rustc":13656942997564193586,"features":"","target":0,"profile":0,"path":0,"deps":[[8925058994712716804,"build_script_build",false,11609790066939631988]],"local":[{"RerunIfChanged":{"output":"bpfel-unknown-unknown\\release\\build\\log-196709732232cc3f\\output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

@@ -1,0 +1,17 @@
+error: could not copy "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe0.probe0.3041c4be-cgu.0.rcgu.ll" to "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe0.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe1.probe1.56ebf6f4-cgu.0.rcgu.ll" to "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe1.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+warning: autocfg could not probe for `std`
+error: could not copy "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe2.probe2.a8400cd7-cgu.0.rcgu.ll" to "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe2.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe3.probe3.474510b1-cgu.0.rcgu.ll" to "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/num-traits-30d6c860c0bf66ce/out/probe3.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+

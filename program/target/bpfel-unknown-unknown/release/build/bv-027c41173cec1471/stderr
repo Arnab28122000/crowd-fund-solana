@@ -1,0 +1,8 @@
+error: could not copy "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/bv-027c41173cec1471/out/rust_out.rust_out.1376475e-cgu.0.rcgu.o" to "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/bv-027c41173cec1471/out/rust_out.o": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/bv-027c41173cec1471/out/rust_out.rust_out.1376475e-cgu.0.rcgu.o" to "/mnt/c/users/arnab/onedrive/desktop/blockchain/crowd-funding/program/target/bpfel-unknown-unknown/release/build/bv-027c41173cec1471/out/rust_out.o": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
